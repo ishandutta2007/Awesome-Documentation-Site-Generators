@@ -42,61 +42,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[GitBook](https://www.gitbook.com/)**
-
-  **Block-based documentation platform** with Git sync and AI features. **Pricing**: **Free** ($0/site/month, 1 user) includes visual editor, GitHub/GitLab sync, API playgrounds, and LLM optimizations. **Essential** ($65/site/month annual, $79 monthly; $12/user/month additional) adds Ask AI, custom domain, analytics, and 2,000 AI credits/month. **Ultimate** ($249/site/month annual, $299 monthly) adds Chat AI, Agent, adaptive content, and 10,000 AI credits/month. **Enterprise** is custom . **Free tier**: Full platform for 1 user, unlimited public docs sites . **Best for**: teams wanting block-based editing with Git sync and AI assistance.
-
-
-
-- **[ReadMe](https://readme.com/)**
-
-  **API-first documentation platform** with interactive API reference and AI features. **Pricing**: **Starter** ($0/month, 1 project) includes bidirectional sync, interactive API reference, custom domains, LLM.txt, and MCP server. **Pro** ($250/month) adds Ask AI Lite, AI Linting, reviews, branching, and custom CSS/HTML. **Enterprise** is custom with on-premise deployment and SSLA . **Free tier**: 1 project with full core features, no credit card required . **Free trial**: 14-day trial with all Pro plan features . **Best for**: API-first teams wanting the most polished interactive API reference.
-
-
-
-- **[Mintlify](https://mintlify.com/)**
-
-  **Agent-ready documentation platform** with AI features and MCP server. **Pricing**: **Starter** ($0/month, 5 editor seats) includes full platform, custom domain, web editor, and MCP server. **Pro** ($450/month) adds unlimited editor seats, automations, preview deployments, and admin APIs, with 10,000 AI credits/month ($0.01 per overage credit). **Enterprise** is custom with SSO, RBAC, and self-hosting . **Free tier**: Full platform for 5 editors, no credit card required . **Best for**: teams wanting a modern, agent-native documentation experience.
-
-
-
-- **[Fern](https://buildwithfern.com/)**
-
-  **Open-core documentation and SDK platform** with hosted docs and code generators. **Pricing**: **Hobby** ($0/month, 2 team members) includes 250 AI credits/month, custom domain, guides, API references, and web editor. **Team** ($150/month annual, $200 monthly) adds 5 team members, 1,000 AI credits, custom subpath, version switching, and password-protected docs. **Enterprise** is custom with SSO, RBAC, self-hosting, and dedicated support . **Free tier**: 2 seats with core documentation features . **Best for**: teams wanting open-source CLI and generators with optional hosted docs.
-
-
-
-- **[Scalar](https://scalar.com/)**
-
-  **API documentation and SDK platform** with OpenAPI-native rendering. **Pricing**: **Free** ($0) includes 3 APIs, 1 SDK up to 25 endpoints, and 50 Agent Scalar credits. **Pro** ($150/month, $125/yearly) adds custom domains, Git sync, 15 APIs, and 500 credits. **Business** ($600/month, $500/yearly) adds SSO, subpath hosting, 25 APIs, and 2,000 credits. **Enterprise** is custom with unlimited APIs and RBAC . **Free tier**: 3 APIs with full OpenAPI rendering and built-in API client . **Best for**: API-first teams wanting beautiful OpenAPI docs with a generous free tier.
-
-
-
-- **[Redocly](https://redocly.com/)**
-
-  **OpenAPI documentation and API governance platform**. **Pricing**: **Free** ($0) includes 1 project and basic features. **Pro** ($10/seat/month) adds custom domain and more. **Enterprise** ($24/seat/month) adds SSO, RBAC, 500 pages, AI search (3,500 questions/month), and MCP servers. **Enterprise+** adds data residency and premium support . **Free tier**: 1 project with core documentation features . **Best for**: teams wanting the creators of Redoc behind their API docs.
-
-
-
-- **[Document360](https://document360.com/)**
-
-  **Knowledge base and documentation platform** with AI features. **Pricing**: Quote-only; **Standard** and **Professional** tiers available with free trial. **Free tier**: **Free trial** available; no perpetual free tier . **Best for**: teams wanting a managed knowledge base with analytics.
-
-
-
-- **[Confluence](https://www.atlassian.com/software/confluence)**
-
-  **Team workspace and documentation platform** integrated with Jira. **Pricing**: **Free** for up to 10 users; **Standard** from **$5.75/user/month**; **Premium** from **$11.55/user/month**. **Free tier**: 10 users with 2 GB storage and core collaboration features . **Best for**: teams already on Atlassian wanting docs alongside project tracking.
-
-
-
-- **[Archbee](https://www.archbee.com/)**
-
-  **Documentation platform for product and engineering teams**. **Pricing**: Quote-only; **Starter**, **Growth**, and **Enterprise** tiers with free trial. **Free tier**: **Free trial** available; no perpetual free tier . **Best for**: teams wanting API docs and knowledge base in one platform.
-
-
+| Platform | Key Focus & Capabilities | Pricing (Starting Paid Tier) | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[GitBook](https://www.gitbook.com/)** | Block-based collaborative documentation with native Git sync, API playgrounds, and AI assistant | ** / site / month** (billed annually, or /mo monthly) for Essential tier; includes 1 user (+/user/mo extra), 2,000 AI credits/mo, custom domain, and analytics | **Free forever for 1 user/admin** with unlimited public documentation spaces, visual block editor, GitHub/GitLab bidirectional sync, and OpenAPI playground |
+| **[ReadMe](https://readme.com/)** | Developer hub & API-first documentation platform with interactive API Explorer, metrics, and workflows | ** / project / month** for Pro tier; adds Ask AI Lite, automated API linting, version branching, staging environments, and custom CSS/HTML | **Free forever for 1 project & 1 admin** with unlimited interactive API references, Markdown editor, custom domain, llms.txt & MCP server; plus **14-day free trial** of Pro |
+| **[Mintlify](https://mintlify.com/)** | Agent-ready MDX documentation platform with automated code snippets, AI assistant, and MCP integration | ** / month** for Pro tier; includes unlimited editor seats, custom subpaths, automated preview deployments, admin APIs, and 10,000 AI credits/month | **Free forever for up to 5 editor seats** with full core MDX platform, unlimited public pages, GitHub sync, custom domain, and MCP server (no credit card required) |
+| **[Fern](https://buildwithfern.com/)** | Open-core API documentation and SDK generator platform turning OpenAPI specs into interactive docs | ** / month** (billed annually, or /mo monthly) for Team tier; includes 5 team members, 1,000 AI credits/mo, custom subpaths, and password-protected docs | **Free forever for up to 2 team members** with 250 AI credits/month, custom domain, guides, OpenAPI reference generation, and web editor |
+| **[Scalar](https://scalar.com/)** | Interactive OpenAPI-native documentation platform and REST API client with modern UI | ** / month** (billed annually, or /mo monthly) for Pro tier; includes 15 APIs, 500 Agent credits, custom domains, and Git sync | **Free forever for up to 3 APIs** with 1 client SDK generator (up to 25 endpoints), 50 Agent Scalar AI credits, and full OpenAPI interactive rendering |
+| **[Redocly](https://redocly.com/)** | OpenAPI documentation, developer portal, and API governance platform by the creators of Redoc | ** / seat / month** for Pro tier; includes custom domain, OpenAPI CLI linting, version branching, and premium docs themes | **Free forever for 1 project & 1 user seat** with OpenAPI/Swagger reference rendering, GitHub/GitLab integration, and 1 preview build |
+| **[Document360](https://document360.com/)** | AI-powered knowledge base and technical documentation platform with Eddy AI and analytics | ** / project / month** (billed annually, or /mo monthly) for Professional tier; includes 3 team accounts, 1 public knowledge base, and custom domain | **14-day free trial** with full access to Enterprise knowledge base suite, Eddy AI search/writer, and custom branding (no credit card required) |
+| **[Confluence](https://www.atlassian.com/software/confluence)** | Enterprise team workspace and collaborative documentation hub deeply integrated with Atlassian Jira | **.75 / user / month** (billed annually, or .05/user/mo monthly) for Standard tier; includes 250 GB storage, user permissions, audit logs, and 9/5 support | **Free forever for up to 10 users** with 2 GB file storage, unlimited spaces and pages, Jira & Trello integrations, macro library, and community support |
+| **[Archbee](https://www.archbee.com/)** | Documentation platform for product & engineering teams combining API references with knowledge bases | ** / month** (billed annually, or /mo monthly) for Growing tier; includes 3 editor seats, unlimited public readers, unlimited docs, and custom domain | **14-day free trial** with full access to multi-space documentation, API doc generator, OpenAPI swagger imports, and contextual search |
 
 ## Open-Source GitHub Projects
 
