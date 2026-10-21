@@ -50,6 +50,7 @@
 - [🏗️ Architectural Comparison: SaaS vs. Static Generators vs. Runtime](#️-architectural-comparison-saas-vs-static-generators-vs-runtime)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer & Evaluation Guidelines](#️-disclaimer--evaluation-guidelines)
+- [💖 Support & Sponsoring](#-support--sponsoring)
 - [⭐ Star History](#star-history)
 
 ---
@@ -175,6 +176,25 @@ When evaluating documentation site generators, engineering teams typically navig
 - 🔒 Documentation platforms handling enterprise content must comply with data protection regulations (GDPR, CCPA, SOC 2) and implement granular role-based access controls.
 - 💡 **The "hosted platform vs. static generator" trade-off matters:** Hosted platforms (GitBook, ReadMe, Mintlify) provide turnkey search, AI chatbots, and managed hosting, but subscription costs scale with seats. Open-source static generators (Docusaurus, MkDocs, Hugo) give you full ownership, zero software licensing fees, and maximum portability.
 - 🤖 **Agent-Readiness:** When selecting a documentation platform for modern developer workflows, consider built-in support for `llms.txt` and Model Context Protocol (MCP) servers to allow AI coding assistants to seamlessly consume your technical docs.
+
+---
+
+## 💖 Support & Sponsoring
+
+A huge thank you to everyone who explores, uses, or contributes to this curated directory! 🙌
+
+If you find this benchmark valuable for your engineering projects or technical documentation stacks, here is how you can support its ongoing maintenance:
+
+- ⭐ **Star the repo** to amplify its visibility and help other developers find the right documentation engine.
+- 🍴 **Fork & Contribute** by opening PRs with new documentation generators, framework features, or updated pricing.
+- 📢 **Share this resource** with your teammates, tech leads, and developer communities on Twitter/X, LinkedIn, or Discord.
+- ☕ **Buy me a coffee / Sponsor**: If this index saved your team time and research hours, consider backing the project directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
