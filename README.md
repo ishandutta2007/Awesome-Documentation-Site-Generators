@@ -50,6 +50,7 @@
 - [🏗️ Architectural Comparison: SaaS vs. Static Generators vs. Runtime](#️-architectural-comparison-saas-vs-static-generators-vs-runtime)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer & Evaluation Guidelines](#️-disclaimer--evaluation-guidelines)
+- [⭐ Star History](#star-history)
 
 ---
 
@@ -174,6 +175,12 @@ When evaluating documentation site generators, engineering teams typically navig
 - 🔒 Documentation platforms handling enterprise content must comply with data protection regulations (GDPR, CCPA, SOC 2) and implement granular role-based access controls.
 - 💡 **The "hosted platform vs. static generator" trade-off matters:** Hosted platforms (GitBook, ReadMe, Mintlify) provide turnkey search, AI chatbots, and managed hosting, but subscription costs scale with seats. Open-source static generators (Docusaurus, MkDocs, Hugo) give you full ownership, zero software licensing fees, and maximum portability.
 - 🤖 **Agent-Readiness:** When selecting a documentation platform for modern developer workflows, consider built-in support for `llms.txt` and Model Context Protocol (MCP) servers to allow AI coding assistants to seamlessly consume your technical docs.
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Documentation-Site-Generators&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Documentation-Site-Generators&type=date&legend=top-left)
 
 ---
 
