@@ -30,6 +30,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -41,6 +42,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 ## SaaS/Hosted Platforms
+
+### Sector Overview & Market Dynamics
+
+The global developer documentation and technical knowledge management market is currently valued at approximately **.8B – .4B**, growing at a ~16% CAGR fueled by explosive API expansion and AI-agent documentation standards (llms.txt, MCP). The sector is **moderately fragmented** rather than a winner-take-all monopoly: while mega-scale enterprise players like Atlassian Confluence dominate broad internal workspace knowledge, specialized modern developer platforms (GitBook, Mintlify, ReadMe) and deeply entrenched open-source static generators (Docusaurus, MkDocs, Hugo) hold resilient, thriving positions across developer workflows.
 
 | Platform | Company Size (Valuation / Revenue) | Key Focus & Capabilities | Pricing (Starting Paid Tier) | Free Tier Limits |
 | :--- | :--- | :--- | :--- | :--- |
