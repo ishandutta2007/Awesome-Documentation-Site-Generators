@@ -61,67 +61,67 @@ The global developer documentation and technical knowledge management market is 
 
 ## Open-Source GitHub Projects
 
+The leading open-source documentation site generators, frameworks, and API rendering engines—ranked in descending order by GitHub star count:
 
+- **[Hugo](https://github.com/gohugoio/hugo)** [![GitHub stars](https://img.shields.io/github/stars/gohugoio/hugo?style=social&color=white)](https://github.com/gohugoio/hugo/stargazers)
+  **The world's fastest framework for building websites** (Apache-2.0) — Written in Go. Blazing sub-millisecond build speeds make it the industry benchmark for massive documentation sites and enterprise knowledge bases with thousands of pages.
 
-- **[Docusaurus](https://github.com/facebook/docusaurus)**
+- **[Docusaurus](https://github.com/facebook/docusaurus)** [![GitHub stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers)
+  **Easy to maintain open source documentation websites** (MIT) — Built by Meta. The React & MDX gold standard featuring out-of-the-box versioning, multi-language localization, Algolia DocSearch, and an extensive plugin ecosystem.
 
-  **Easy to maintain open source documentation websites** (MIT) — **the React-based static site generator standard**. **Built by Meta** for documentation sites with versioning, localization, and search built in. **MDX support** lets you embed React components directly in Markdown. **Plugin ecosystem** for analytics, sitemaps, and API docs. **The reference implementation for React documentation sites**—choose when you want a modern, component-driven docs experience with strong versioning support.
+- **[Jekyll](https://github.com/jekyll/jekyll)** [![GitHub stars](https://img.shields.io/github/stars/jekyll/jekyll?style=social&color=white)](https://github.com/jekyll/jekyll/stargazers)
+  **Transform plain text into static websites and blogs** (MIT) — The battle-tested Ruby static generator with native zero-configuration GitHub Pages hosting support and Liquid templating.
 
+- **[Slate](https://github.com/slatedocs/slate)** [![GitHub stars](https://img.shields.io/github/stars/slatedocs/slate?style=social&color=white)](https://github.com/slatedocs/slate/stargazers)
+  **Beautiful static documentation for your API** (Apache-2.0) — Pioneer of the clean, 3-column responsive layout (navigation, documentation, code samples in multiple languages) rendered from clean Markdown.
 
+- **[Docsify](https://github.com/docsifyjs/docsify)** [![GitHub stars](https://img.shields.io/github/stars/docsifyjs/docsify?style=social&color=white)](https://github.com/docsifyjs/docsify/stargazers)
+  **A magical documentation site generator with no statically built HTML files** (MIT) — Parses Markdown on the fly in the browser. Zero build steps, instant deployment on any CDN or file server, with modular sidebar and search plugins.
 
-- **[MkDocs](https://github.com/mkdocs/mkdocs)**
+- **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![GitHub stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)
+  **Interactive API documentation for OpenAPI specifications** (Apache-2.0) — The ubiquitous standard for rendering interactive REST API specifications, allowing developers to execute live test requests directly in the browser.
 
-  **Project documentation with Markdown** (BSD-2-Clause) — **the Python-based static site generator standard**. **Material for MkDocs** is the most popular theme, adding search, navigation, and a polished design. **Plugin ecosystem** covers API docs (mkdocstrings), blog, and social cards. **The reference implementation for Python documentation**—choose when you want a Python-native build pipeline with excellent search and theming.
+- **[Material for MkDocs](https://github.com/squidfunk/mkdocs-material)** [![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social&color=white)](https://github.com/squidfunk/mkdocs-material/stargazers)
+  **Modern, technical documentation that simply works** (MIT) — The premier theme and extension suite for MkDocs, offering instant offline search, code annotations, mathematical typesetting, dark mode, and multi-language support.
 
+- **[Redoc](https://github.com/Redocly/redoc)** [![GitHub stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers)
+  **OpenAPI/Swagger-generated API reference documentation** (MIT) — Extremely responsive 3-panel API documentation with interactive code snippets, deep JSON schema validation, and zero server-side lock-in.
 
+- **[VuePress](https://github.com/vuejs/vuepress)** [![GitHub stars](https://img.shields.io/github/stars/vuejs/vuepress?style=social&color=white)](https://github.com/vuejs/vuepress/stargazers)
+  **Vue-powered Static Site Generator** (MIT) — Generates pre-rendered static HTML with SPA routing. Markdown files can leverage Vue components for interactive documentation and live demos.
 
-- **[VitePress](https://github.com/vuejs/vitepress)**
+- **[MkDocs](https://github.com/mkdocs/mkdocs)** [![GitHub stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=social&color=white)](https://github.com/mkdocs/mkdocs/stargazers)
+  **Project documentation with Markdown** (BSD-2-Clause) — The foundational Python documentation generator. Simple YAML configuration, built-in dev server with live reload, and deployable to GitHub Pages in one command.
 
-  **Vite & Vue powered static site generator** (MIT) — **the Vue-based static site generator standard**. **Vite-powered** for instant server start and lightning-fast HMR. **Markdown-centered** with Vue components in Markdown. **Built-in search, i18n, and theming**. **The reference implementation for Vue documentation**—choose when you want Vue's reactivity and Vite's speed for your docs site.
+- **[mdBook](https://github.com/rust-lang/mdBook)** [![GitHub stars](https://img.shields.io/github/stars/rust-lang/mdBook?style=social&color=white)](https://github.com/rust-lang/mdBook/stargazers)
+  **Create book-style documentation from Markdown files** (MPL-2.0) — Built in Rust (powers official Rust documentation). Zero runtime dependencies, instant builds, built-in search, and customizable themes.
 
+- **[Eleventy (11ty)](https://github.com/11ty/eleventy)** [![GitHub stars](https://img.shields.io/github/stars/11ty/eleventy?style=social&color=white)](https://github.com/11ty/eleventy/stargazers)
+  **Simpler, flexible JavaScript static site generator** (MIT) — Zero client-side JavaScript by default, supports multiple template engines (Markdown, Liquid, Nunjucks, HTML), and delivers ultra-lean web performance.
 
+- **[VitePress](https://github.com/vuejs/vitepress)** [![GitHub stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers)
+  **Vite & Vue-powered modern static site generator** (MIT) — Successor to VuePress, featuring sub-second dev server startup, lightning-fast HMR, built-in search, i18n, and markdown code groups.
 
-- **[Docsify](https://github.com/docsifyjs/docsify)**
+- **[Zola](https://github.com/getzola/zola)** [![GitHub stars](https://img.shields.io/github/stars/getzola/zola?style=social&color=white)](https://github.com/getzola/zola/stargazers)
+  **Fast single-binary static site generator with everything built in** (EUPL-1.2) — Written in Rust, with Tera templates, Sass compilation, syntax highlighting, and search indexing without external dependencies.
 
-  **A magical documentation site generator with no statically built files** (MIT) — **the runtime-rendering choice**. **Fetches Markdown in the browser**—no build step, no static HTML generation. **Deploy anywhere**—just push Markdown files to a static host. **Sidebar, search, and themes** via plugins. **The trade-off**: **no built-in llms.txt or MCP support**—agent-ready exports require custom work . **Best for**: teams wanting the smallest possible client-side stack and full control over every byte served.
+- **[Scalar](https://github.com/scalar/scalar)** [![GitHub stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)
+  **Modern REST API platform & interactive reference docs** (MIT) — Open-source interactive OpenAPI client and documentation renderer with modern UI, request playgrounds, and multi-language code snippets.
 
+- **[Nextra](https://github.com/shuding/nextra)** [![GitHub stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers)
+  **Simple, powerful and flexible site generation framework with Next.js** (MIT) — Built on Next.js App Router and React Server Components, delivering full React ecosystem integration with MDX support.
 
+- **[Astro Starlight](https://github.com/withastro/starlight)** [![GitHub stars](https://img.shields.io/github/stars/withastro/starlight?style=social&color=white)](https://github.com/withastro/starlight/stargazers)
+  **Content-first documentation framework built on Astro** (MIT) — Delivers maximum performance via Astro Islands (minimal client-side JS), Pagefind search out of the box, dark mode, i18n, and WCAG AA accessibility.
 
-- **[Nextra](https://github.com/shuding/nextra)**
+- **[Read the Docs](https://github.com/readthedocs/readthedocs.org)** [![GitHub stars](https://img.shields.io/github/stars/readthedocs/readthedocs.org?style=social&color=white)](https://github.com/readthedocs/readthedocs.org/stargazers)
+  **Continuous documentation hosting platform** (MIT) — Automatically builds, versions, and hosts documentation from Git repositories using Sphinx and MkDocs, supporting version switching and PDF/ePub exports.
 
-  **Next.js-based static site generator for documentation** (MIT) — **the Next.js-native choice**. **App Router support** with MDX and React Server Components. **Built-in search, theming, and i18n**. **The trade-off**: **no native llms.txt support**—you own the route handler for agent-ready exports . **Best for**: teams already on Next.js wanting documentation as part of their existing app.
+- **[Sphinx](https://github.com/sphinx-doc/sphinx)** [![GitHub stars](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=social&color=white)](https://github.com/sphinx-doc/sphinx/stargazers)
+  **Python documentation generator** (BSD-2-Clause) — Powers Python's official documentation and thousands of libraries; unmatched cross-referencing, autodoc docstring extraction, and multiple output formats.
 
-
-
-- **[Astro Starlight](https://github.com/withastro/starlight)**
-
-  **Documentation site framework built on Astro** (MIT) — **the content-first choice**. **Astro islands architecture** for minimal JavaScript. **Built-in search (Pagefind), i18n, and accessibility**. **The reference implementation for content-heavy documentation**—choose when you want fast, static docs with minimal client-side JavaScript.
-
-
-
-- **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)**
-
-  **Community-supported supercharged digital document archiver** (GPL-3.0) — **Note**: This is a **document management system**, not a documentation site generator. **Relevant only if you're archiving documents, not publishing docs**. **Best for**: personal and small-team document archiving, not documentation publishing.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Jekyll** — Static site generator (MIT). The original GitHub Pages generator. **Best for**: simple, blog-style documentation sites.
-
-- **Hugo** — Fast static site generator (Apache-2.0). **The fastest build times** among static generators. **Best for**: large documentation sites where build speed matters.
-
-- **Eleventy** — Simpler static site generator (MIT). **The JavaScript-flexible choice**. **Best for**: teams wanting full control over their build pipeline.
-
-- Community **n8n** workflows for documentation deployment automation and broken link checking.
-
-
-
-**Frameworks for building custom systems**: Combine **Docusaurus** or **MkDocs** for static site generation with **Docsify** for runtime-rendered docs, **Astro Starlight** for content-first sites, and **Fern** for API reference generation—creating a comprehensive documentation stack matched to each team's constraints.
-
-
+- **[Fern](https://github.com/fern-api/fern)** [![GitHub stars](https://img.shields.io/github/stars/fern-api/fern?style=social&color=white)](https://github.com/fern-api/fern/stargazers)
+  **Open-source CLI to output SDKs and docs from OpenAPI** (Apache-2.0) — Generates production-ready API documentation sites and typed SDKs (TypeScript, Python, Go, Java) from OpenAPI definitions.
 
 ## How to Contribute
 
