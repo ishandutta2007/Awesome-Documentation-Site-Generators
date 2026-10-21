@@ -1,5 +1,9 @@
 # Awesome-Documentation-Site-Generators
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Documentation Site Generators Banner" width="100%">
+</p>
+
 ## Top Documentation Site Generators Ecosystem
 
 
