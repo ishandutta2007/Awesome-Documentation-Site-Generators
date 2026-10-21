@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Documentation-Site-Generators/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Documentation-Site-Generators?style=flat-square&logo=github&color=38bdf8" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Documentation-Site-Generators/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Documentation-Site-Generators?style=flat-square&logo=github&color=38bdf8" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Documentation-Site-Generators/forks"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Documentation-Site-Generators?style=flat-square&logo=github&color=818cf8" alt="GitHub Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Documentation-Site-Generators/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Documentation-Site-Generators/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
@@ -77,66 +77,66 @@ The global developer documentation and technical knowledge management software m
 
 ## 🛠️ Open-Source GitHub Projects (Star Ranked)
 
-The leading open-source documentation site generators, frameworks, and API rendering engines—ranked in descending order by GitHub star count:
+The leading open-source documentation site generators, frameworks, and API rendering engines—ranked in descending order by GitHub Stars_Count:
 
-- 🚀 **[Hugo](https://github.com/gohugoio/hugo)** [![GitHub stars](https://img.shields.io/github/stars/gohugoio/hugo?style=social&color=white)](https://github.com/gohugoio/hugo/stargazers)  
+- 🚀 **[Hugo](https://github.com/gohugoio/hugo)** [![GitHub_Stars](https://img.shields.io/github/stars/gohugoio/hugo?style=social&color=white)](https://github.com/gohugoio/hugo/stargazers)  
   **The world's fastest framework for building websites** (Apache-2.0) — Written in Go. Blazing sub-millisecond build speeds make it the industry benchmark for massive documentation sites and enterprise knowledge bases with thousands of pages.
 
-- 🦖 **[Docusaurus](https://github.com/facebook/docusaurus)** [![GitHub stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers)  
+- 🦖 **[Docusaurus](https://github.com/facebook/docusaurus)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/docusaurus?style=social&color=white)](https://github.com/facebook/docusaurus/stargazers)  
   **Easy to maintain open source documentation websites** (MIT) — Built by Meta. The React & MDX gold standard featuring out-of-the-box versioning, multi-language localization, Algolia DocSearch, and an extensive plugin ecosystem.
 
-- 🧪 **[Jekyll](https://github.com/jekyll/jekyll)** [![GitHub stars](https://img.shields.io/github/stars/jekyll/jekyll?style=social&color=white)](https://github.com/jekyll/jekyll/stargazers)  
+- 🧪 **[Jekyll](https://github.com/jekyll/jekyll)** [![GitHub_Stars](https://img.shields.io/github/stars/jekyll/jekyll?style=social&color=white)](https://github.com/jekyll/jekyll/stargazers)  
   **Transform plain text into static websites and blogs** (MIT) — The battle-tested Ruby static generator with native zero-configuration GitHub Pages hosting support and Liquid templating.
 
-- 📋 **[Slate](https://github.com/slatedocs/slate)** [![GitHub stars](https://img.shields.io/github/stars/slatedocs/slate?style=social&color=white)](https://github.com/slatedocs/slate/stargazers)  
+- 📋 **[Slate](https://github.com/slatedocs/slate)** [![GitHub_Stars](https://img.shields.io/github/stars/slatedocs/slate?style=social&color=white)](https://github.com/slatedocs/slate/stargazers)  
   **Beautiful static documentation for your API** (Apache-2.0) — Pioneer of the clean, 3-column responsive layout (navigation, documentation, code samples in multiple languages) rendered from clean Markdown.
 
-- 🃏 **[Docsify](https://github.com/docsifyjs/docsify)** [![GitHub stars](https://img.shields.io/github/stars/docsifyjs/docsify?style=social&color=white)](https://github.com/docsifyjs/docsify/stargazers)  
+- 🃏 **[Docsify](https://github.com/docsifyjs/docsify)** [![GitHub_Stars](https://img.shields.io/github/stars/docsifyjs/docsify?style=social&color=white)](https://github.com/docsifyjs/docsify/stargazers)  
   **A magical documentation site generator with no statically built HTML files** (MIT) — Parses Markdown on the fly in the browser. Zero build steps, instant deployment on any CDN or file server, with modular sidebar and search plugins.
 
-- ⚡ **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![GitHub stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)  
+- ⚡ **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)  
   **Interactive API documentation for OpenAPI specifications** (Apache-2.0) — The ubiquitous standard for rendering interactive REST API specifications, allowing developers to execute live test requests directly in the browser.
 
-- 🎨 **[Material for MkDocs](https://github.com/squidfunk/mkdocs-material)** [![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social&color=white)](https://github.com/squidfunk/mkdocs-material/stargazers)  
+- 🎨 **[Material for MkDocs](https://github.com/squidfunk/mkdocs-material)** [![GitHub_Stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social&color=white)](https://github.com/squidfunk/mkdocs-material/stargazers)  
   **Modern, technical documentation that simply works** (MIT) — The premier theme and extension suite for MkDocs, offering instant offline search, code annotations, mathematical typesetting, dark mode, and multi-language support.
 
-- 📘 **[Redoc](https://github.com/Redocly/redoc)** [![GitHub stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers)  
+- 📘 **[Redoc](https://github.com/Redocly/redoc)** [![GitHub_Stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers)  
   **OpenAPI/Swagger-generated API reference documentation** (MIT) — Extremely responsive 3-panel API documentation with interactive code snippets, deep JSON schema validation, and zero server-side lock-in.
 
-- 🟢 **[VuePress](https://github.com/vuejs/vuepress)** [![GitHub stars](https://img.shields.io/github/stars/vuejs/vuepress?style=social&color=white)](https://github.com/vuejs/vuepress/stargazers)  
+- 🟢 **[VuePress](https://github.com/vuejs/vuepress)** [![GitHub_Stars](https://img.shields.io/github/stars/vuejs/vuepress?style=social&color=white)](https://github.com/vuejs/vuepress/stargazers)  
   **Vue-powered Static Site Generator** (MIT) — Generates pre-rendered static HTML with SPA routing. Markdown files can leverage Vue components for interactive documentation and live demos.
 
-- 📚 **[MkDocs](https://github.com/mkdocs/mkdocs)** [![GitHub stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=social&color=white)](https://github.com/mkdocs/mkdocs/stargazers)  
+- 📚 **[MkDocs](https://github.com/mkdocs/mkdocs)** [![GitHub_Stars](https://img.shields.io/github/stars/mkdocs/mkdocs?style=social&color=white)](https://github.com/mkdocs/mkdocs/stargazers)  
   **Project documentation with Markdown** (BSD-2-Clause) — The foundational Python documentation generator. Simple YAML configuration, built-in dev server with live reload, and deployable to GitHub Pages in one command.
 
-- 📖 **[mdBook](https://github.com/rust-lang/mdBook)** [![GitHub stars](https://img.shields.io/github/stars/rust-lang/mdBook?style=social&color=white)](https://github.com/rust-lang/mdBook/stargazers)  
+- 📖 **[mdBook](https://github.com/rust-lang/mdBook)** [![GitHub_Stars](https://img.shields.io/github/stars/rust-lang/mdBook?style=social&color=white)](https://github.com/rust-lang/mdBook/stargazers)  
   **Create book-style documentation from Markdown files** (MPL-2.0) — Built in Rust (powers official Rust documentation). Zero runtime dependencies, instant builds, built-in search, and customizable themes.
 
-- 🎈 **[Eleventy (11ty)](https://github.com/11ty/eleventy)** [![GitHub stars](https://img.shields.io/github/stars/11ty/eleventy?style=social&color=white)](https://github.com/11ty/eleventy/stargazers)  
+- 🎈 **[Eleventy (11ty)](https://github.com/11ty/eleventy)** [![GitHub_Stars](https://img.shields.io/github/stars/11ty/eleventy?style=social&color=white)](https://github.com/11ty/eleventy/stargazers)  
   **Simpler, flexible JavaScript static site generator** (MIT) — Zero client-side JavaScript by default, supports multiple template engines (Markdown, Liquid, Nunjucks, HTML), and delivers ultra-lean web performance.
 
-- ⚡ **[VitePress](https://github.com/vuejs/vitepress)** [![GitHub stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers)  
+- ⚡ **[VitePress](https://github.com/vuejs/vitepress)** [![GitHub_Stars](https://img.shields.io/github/stars/vuejs/vitepress?style=social&color=white)](https://github.com/vuejs/vitepress/stargazers)  
   **Vite & Vue-powered modern static site generator** (MIT) — Successor to VuePress, featuring sub-second dev server startup, lightning-fast HMR, built-in search, i18n, and markdown code groups.
 
-- 🦀 **[Zola](https://github.com/getzola/zola)** [![GitHub stars](https://img.shields.io/github/stars/getzola/zola?style=social&color=white)](https://github.com/getzola/zola/stargazers)  
+- 🦀 **[Zola](https://github.com/getzola/zola)** [![GitHub_Stars](https://img.shields.io/github/stars/getzola/zola?style=social&color=white)](https://github.com/getzola/zola/stargazers)  
   **Fast single-binary static site generator with everything built in** (EUPL-1.2) — Written in Rust, with Tera templates, Sass compilation, syntax highlighting, and search indexing without external dependencies.
 
-- 🌐 **[Scalar](https://github.com/scalar/scalar)** [![GitHub stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)  
+- 🌐 **[Scalar](https://github.com/scalar/scalar)** [![GitHub_Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)  
   **Modern REST API platform & interactive reference docs** (MIT) — Open-source interactive OpenAPI client and documentation renderer with modern UI, request playgrounds, and multi-language code snippets.
 
-- ▲ **[Nextra](https://github.com/shuding/nextra)** [![GitHub stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers)  
+- ▲ **[Nextra](https://github.com/shuding/nextra)** [![GitHub_Stars](https://img.shields.io/github/stars/shuding/nextra?style=social&color=white)](https://github.com/shuding/nextra/stargazers)  
   **Simple, powerful and flexible site generation framework with Next.js** (MIT) — Built on Next.js App Router and React Server Components, delivering full React ecosystem integration with MDX support.
 
-- 🌟 **[Astro Starlight](https://github.com/withastro/starlight)** [![GitHub stars](https://img.shields.io/github/stars/withastro/starlight?style=social&color=white)](https://github.com/withastro/starlight/stargazers)  
+- 🌟 **[Astro Starlight](https://github.com/withastro/starlight)** [![GitHub_Stars](https://img.shields.io/github/stars/withastro/starlight?style=social&color=white)](https://github.com/withastro/starlight/stargazers)  
   **Content-first documentation framework built on Astro** (MIT) — Delivers maximum performance via Astro Islands (minimal client-side JS), Pagefind search out of the box, dark mode, i18n, and WCAG AA accessibility.
 
-- 📖 **[Read the Docs](https://github.com/readthedocs/readthedocs.org)** [![GitHub stars](https://img.shields.io/github/stars/readthedocs/readthedocs.org?style=social&color=white)](https://github.com/readthedocs/readthedocs.org/stargazers)  
+- 📖 **[Read the Docs](https://github.com/readthedocs/readthedocs.org)** [![GitHub_Stars](https://img.shields.io/github/stars/readthedocs/readthedocs.org?style=social&color=white)](https://github.com/readthedocs/readthedocs.org/stargazers)  
   **Continuous documentation hosting platform** (MIT) — Automatically builds, versions, and hosts documentation from Git repositories using Sphinx and MkDocs, supporting version switching and PDF/ePub exports.
 
-- 🐍 **[Sphinx](https://github.com/sphinx-doc/sphinx)** [![GitHub stars](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=social&color=white)](https://github.com/sphinx-doc/sphinx/stargazers)  
+- 🐍 **[Sphinx](https://github.com/sphinx-doc/sphinx)** [![GitHub_Stars](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=social&color=white)](https://github.com/sphinx-doc/sphinx/stargazers)  
   **Python documentation generator** (BSD-2-Clause) — Powers Python's official documentation and thousands of libraries; unmatched cross-referencing, autodoc docstring extraction, and multiple output formats.
 
-- 🌲 **[Fern](https://github.com/fern-api/fern)** [![GitHub stars](https://img.shields.io/github/stars/fern-api/fern?style=social&color=white)](https://github.com/fern-api/fern/stargazers)  
+- 🌲 **[Fern](https://github.com/fern-api/fern)** [![GitHub_Stars](https://img.shields.io/github/stars/fern-api/fern?style=social&color=white)](https://github.com/fern-api/fern/stargazers)  
   **Open-source CLI to output SDKs and docs from OpenAPI** (Apache-2.0) — Generates production-ready API documentation sites and typed SDKs (TypeScript, Python, Go, Java) from OpenAPI definitions.
 
 ---
@@ -163,7 +163,7 @@ When evaluating documentation site generators, engineering teams typically navig
 
 1. 🍴 Fork the repository.
 2. 📝 Add or edit entries in `README.md` following the existing format.
-3. 🔍 Ensure descriptions are factual, pricing & free tier limits are accurate, and open-source star badges are linked.
+3. 🔍 Ensure descriptions are factual, pricing & free tier limits are accurate, and open-source Stars_Badges are linked.
 4. 🚀 Submit a Pull Request with a clear summary of your changes.
 
 ⭐ **Star the repo if you find it useful!**
